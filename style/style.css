@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Azeret Mono", monospace; */
+
+#hero{
+    margin: 0;
+    height: 615px;
+    background-image: url('../assets/Hero-bg.png');
+    /* background-size: cover; */
+    background-position: center;
+    line-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#hero .hero-content{
+    width: 685px;
+}
+.title{
+    font-size: 48px;
+    font-weight: bolder;
+    color:  #0d1321 ;
+   }
+
+.program{
+    font-size: 25px;
+    font-weight: 400;
+    color: #0d1321;
+}
+
+
+.button-container{
+    text-align: center;
+    text-decoration-color: white;
+}
+
+.button{
+    padding: 10px 10px 10px 10px;
+    background: black;
+   
+    
+}
+
+   
+
+.button{
+    padding: 10px 10px 10px 10px;
+    font-size: 10px;
+    text-align: center;
+    background: black;
+    
+
+}
+.right {
+    padding: 10px 10px 10px 10px;
+    margin: 0;
+    align-items: center;
+}
+.web {
+    font: 32px;
+    font-weight: bold;
+    align-items: center;
+}
+.paragraph {
+    font: 16px;
+    font-weight: lighter;
+    align-items: center;
+
+}
+.Man1{
+
+float: right;
+
+}
+
+.Man2 {
+    float: left;
+}
+.Man3{
+    float: right;
+}
+.MAR1{
+    margin-top: 10;
+}
+.MAR2{
+    margin-top: 10;
+}
+.mar{
+    margin-top: 10;
+}
+.Inspiration{
+    font-size: larger;
+    font-weight: bolder;
+    font-size: 32px;
+    color:  #0D1321;
+   
+    text-align: center;
+    
+}
+   
+.Lorem{
+    font-size: small;
+    color:  #0D1321;
+    text-align: center;
+    font-size: 16px;
+
+
+}
+.video{
+    max-width: 800px;
+   text-align: center;
+   margin: 0;
+}
+ 
